@@ -20,7 +20,7 @@ Libraries:
 --------------------------  
 Features  
 ========
-Mode is used for handling Categorial missing data 
-Mean is used for handling Numeric missing data  
+Mode is used for handling Categorial missing data  
+Mean is used for handling Numeric missing data    
 Feature encoding using numeric values 
 --------------------------------------
