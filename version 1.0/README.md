@@ -17,4 +17,10 @@ Interpreter: python3
 Libraries:  
 1.Scikit learn  
 2.Pandas  
---------------------------
+--------------------------  
+Features  
+========
+Mode is used for handling Categorial missing data 
+Mean is used for handling Numeric missing data  
+Feature encoding using numeric values 
+--------------------------------------
