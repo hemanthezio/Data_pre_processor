@@ -7,7 +7,7 @@ Contact : hemanthezio5@gmail.com
 ----------------------------------
 Version : 2.0   
 Download jar file and using the following command to run      
-java -jar Data_pre_processor_2.0.jar   
+java -jar Data_pre-processor_2.0.jar   
 ------------------------------------  
 
 Requirements
