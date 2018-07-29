@@ -20,15 +20,15 @@ Libraries:
 --------------------------  
 Features  
 ========
-Mode is used for handling Categorial missing data  
-Mean is used for handling Numeric missing data    
-Feature encoding using numeric values 
-Feature Scaling / Normalization
-Header option
---------------------------------------
-Whats new  
-=========
-Minor and major bug Fixes
-Feature Scaling / Normalization
-Header option
+Mode is used for handling Categorial missing data   
+Mean is used for handling Numeric missing data     
+Feature encoding using numeric values   
+Feature Scaling / Normalization  
+Header option  
+--------------------------------------  
+Whats new    
+========= 
+Minor and major bug Fixes  
+Feature Scaling / Normalization  
+Header option  
 -------------------------------------
